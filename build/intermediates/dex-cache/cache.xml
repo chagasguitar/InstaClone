@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Quetzal\.android\build-cache\0c4034d497f019831c92894458c900237463cc62\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Quetzal\AndroidStudioProjects\Parse-Projeto-1.13.0\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_11c601d13f01ee6372d0e896ac980b5969fff415\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Quetzal\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Quetzal\AndroidStudioProjects\Parse-Projeto-1.13.0\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.0_1b2943a6b6219be0c81eab2288ce894463fc8450\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Quetzal\.android\build-cache\7f4bcb1df81a2429def0ec8832c54a73a2bf3003\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Quetzal\AndroidStudioProjects\Parse-Projeto-1.13.0\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_967c211fc970ba6c9a0f781f48524c7a1f1aab11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Quetzal\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Quetzal\AndroidStudioProjects\Parse-Projeto-1.13.0\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_55f20f71ce40d106b0d540fa568f4c273ab080c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Quetzal\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="C:\Users\Quetzal\AndroidStudioProjects\Parse-Projeto-1.13.0\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\parse-android-1.13.0_2322688afdc6c93989de50f33b11973d89905da1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Quetzal\AndroidStudioProjects\Parse-Projeto-1.13.0\ParseStarterProject\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Quetzal\AndroidStudioProjects\Parse-Projeto-1.13.0\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8e5ef7ead325b14bb15f77ec89a1f14d7d0e23b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Quetzal\.android\build-cache\7f4bcb1df81a2429def0ec8832c54a73a2bf3003\output\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Quetzal\AndroidStudioProjects\Parse-Projeto-1.13.0\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_cc2c4fe28bb07cae5138c6f849c627c04ba27a4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Quetzal\AndroidStudioProjects\Parse-Projeto-1.13.0\ParseStarterProject\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c4de7609049e6498e11d684a23fa473dfc89d75d">
+        <dex dex="C:\Users\Quetzal\AndroidStudioProjects\Parse-Projeto-1.13.0\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_68cd45c009818c50cb5fa361ac4c524a73813ee5\classes.dex" />
+    </item>
+
+</items>

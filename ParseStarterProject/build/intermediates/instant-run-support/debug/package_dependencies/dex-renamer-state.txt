@@ -1,0 +1,19 @@
+#Thu Jun 29 18:19:07 BRT 2017
+renamed.5=classes6.dex
+renamed.4=classes2.dex
+renamed.3=classes3.dex
+renamed.2=classes5.dex
+renamed.1=classes.dex
+renamed.0=classes4.dex
+base.5=C\:\\Users\\Quetzal\\AndroidStudioProjects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.0_1b2943a6b6219be0c81eab2288ce894463fc8450
+base.4=C\:\\Users\\Quetzal\\AndroidStudioProjects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_11c601d13f01ee6372d0e896ac980b5969fff415
+base.3=C\:\\Users\\Quetzal\\AndroidStudioProjects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_967c211fc970ba6c9a0f781f48524c7a1f1aab11
+base.2=C\:\\Users\\Quetzal\\AndroidStudioProjects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\parse-android-1.13.0_2322688afdc6c93989de50f33b11973d89905da1
+base.1=C\:\\Users\\Quetzal\\AndroidStudioProjects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\bolts-tasks-1.4.0_55f20f71ce40d106b0d540fa568f4c273ab080c6
+base.0=C\:\\Users\\Quetzal\\AndroidStudioProjects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.0_cc2c4fe28bb07cae5138c6f849c627c04ba27a4c
+file.5=C\:\\Users\\Quetzal\\AndroidStudioProjects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.0_1b2943a6b6219be0c81eab2288ce894463fc8450\\classes.dex
+file.4=C\:\\Users\\Quetzal\\AndroidStudioProjects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_11c601d13f01ee6372d0e896ac980b5969fff415\\classes.dex
+file.3=C\:\\Users\\Quetzal\\AndroidStudioProjects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_967c211fc970ba6c9a0f781f48524c7a1f1aab11\\classes.dex
+file.2=C\:\\Users\\Quetzal\\AndroidStudioProjects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\parse-android-1.13.0_2322688afdc6c93989de50f33b11973d89905da1\\classes.dex
+file.1=C\:\\Users\\Quetzal\\AndroidStudioProjects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\bolts-tasks-1.4.0_55f20f71ce40d106b0d540fa568f4c273ab080c6\\classes.dex
+file.0=C\:\\Users\\Quetzal\\AndroidStudioProjects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.0_cc2c4fe28bb07cae5138c6f849c627c04ba27a4c\\classes.dex
