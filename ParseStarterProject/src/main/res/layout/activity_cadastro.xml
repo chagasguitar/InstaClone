@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.parse.starter.activity.LoginActivity"
+    android:background="@drawable/window_background"
+    android:orientation="vertical"
+    android:gravity="center_vertical|center_horizontal">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:src="@drawable/usuario"
+            android:layout_margin="20dp"/>
+
+        <EditText
+            android:id="@+id/et_user"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/white"
+            android:textColorHint="@android:color/white"
+            android:hint="Digite nome do usuário"
+            android:layout_margin="16dp"
+            android:background="@drawable/edit_text_background"
+            android:padding="16dp"/>
+
+        <EditText
+            android:id="@+id/et_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/white"
+            android:textColorHint="@android:color/white"
+            android:hint="Digite seu e-mail"
+            android:layout_margin="16dp"
+            android:background="@drawable/edit_text_background"
+            android:padding="16dp"/>
+
+        <EditText
+            android:id="@+id/et_senha"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/white"
+            android:textColorHint="@android:color/white"
+            android:hint="Digite sua senha"
+            android:inputType="textPassword"
+            android:layout_margin="16dp"
+            android:background="@drawable/edit_text_background"
+            android:padding="16dp"/>
+
+        <Button
+            android:id="@+id/bt_cadastrar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:text="Cadastrar"
+            android:textColor="@android:color/white"
+            android:background="@drawable/button_background"/>
+
+
+
+
+    </LinearLayout>
+
+</LinearLayout>
+

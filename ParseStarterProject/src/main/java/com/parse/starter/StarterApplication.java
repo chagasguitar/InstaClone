@@ -9,14 +9,9 @@
 package com.parse.starter;
 
 import android.app.Application;
-import android.util.Log;
 
 import com.parse.Parse;
 import com.parse.ParseACL;
-import com.parse.ParseException;
-import com.parse.ParseObject;
-import com.parse.ParseUser;
-import com.parse.SaveCallback;
 
 
 public class StarterApplication extends Application {
@@ -30,31 +25,16 @@ public class StarterApplication extends Application {
 
     // Codigo de configuração do App
     Parse.initialize(new Parse.Configuration.Builder(getApplicationContext())
-            .applicationId("HGMn4wMkoYWDTDa4m3Dp2G1aRomhNjQ4VC2dL1II")
-            .clientKey("TO5pCWMt7fZ14Vd0AWXhqDHlgkIaaENIZeVuZjlL")
+            .applicationId("kVsJ6XCGKGNjbQb5E1H3ZrOus75o2kekWOV8DCif")
+            .clientKey("ilj1NP8MPzqDb0c40Mvp139G2gPepN6dA8wmaM69")
             .server("https://parseapi.back4app.com/")
     .build()
     );
 
-
-      // Teste de configuração do App
-      ParseObject pontuacao = new ParseObject("Pontuacao");
-      pontuacao.put("pontos", 100);
-      pontuacao.saveInBackground(new SaveCallback() {
-          public void done(ParseException e) {
-              if (e == null) {
-                  Log.i("TesteExecucao", "Salvo com sucesso!!!");
-              } else {
-                  Log.i("TesteExecucao", "Falha ao salvar os dados!!!");
-              }
-          }
-      });
-
-
-      ParseUser.enableAutomaticUser();
+    //ParseUser.enableAutomaticUser();
     ParseACL defaultACL = new ParseACL();
     // Optionally enable public read access.
-    // defaultACL.setPublicReadAccess(true);
-    ParseACL.setDefaultACL(defaultACL, true);
+    defaultACL.setPublicReadAccess(true);
+    //ParseACL.setDefaultACL(defaultACL, true);
   }
 }

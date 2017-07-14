@@ -1,4 +1,4 @@
-#Thu Jun 29 18:19:11 BRT 2017
+#Fri Jul 14 13:40:48 BRT 2017
 base.0=C\:\\Users\\Quetzal\\AndroidStudioProjects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0
 renamed.0=classes.dex
 file.0=C\:\\Users\\Quetzal\\AndroidStudioProjects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0\\classes.dex
